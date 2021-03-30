@@ -1,4 +1,0 @@
-Nmae: Aligwekwe Chiamaka 
-studentID: 200372176
-Project: Intersection controller
-I was able to configure the LEDs into microcontroller and turn on the LEDs. I was not able to get the primary lights and secondary lights to alternate at differnt times like a real intersection light. I did follow all the task stages that were asked for. The red LED were blinking, I belive it has something to do with an error within my code. When all the LEDs came on at once it did not stay on for long, I belive this is because my time delay was short. My command line also was not connected, I do not know why. If i had more time, I would have been able to debug the file to get the LED to work properly.
