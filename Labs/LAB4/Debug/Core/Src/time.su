@@ -1,0 +1,11 @@
+time.c:4:9:start_time	16	static
+time.c:13:9:stop_time	24	static
+time.c:30:9:add_32	16	static
+time.c:35:9:add_64	32	static
+time.c:40:9:multiply_32	16	static
+time.c:45:9:multiply_64	24	static
+time.c:50:9:divide_32	16	static
+time.c:58:9:divide_64	32	static
+time.c:66:6:structeight_Copy	24	static
+time.c:72:6:structonetwentyeight_Copy	264	static
+time.c:78:6:structkilo_Copy	2056	static

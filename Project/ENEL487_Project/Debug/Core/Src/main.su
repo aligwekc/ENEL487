@@ -1,0 +1,15 @@
+main.c:135:5:main	8	static
+main.c:242:6:SystemClock_Config	72	static
+main.c:276:13:MX_TIM2_Init	32	static
+main.c:321:13:MX_USART3_UART_Init	8	static
+main.c:354:13:MX_GPIO_Init	32	static
+main.c:385:6:printString	32	static
+main.c:405:6:printStringBlocking	32	static
+main.c:427:6:sendByte	16	static
+main.c:434:7:line	32	static
+main.c:474:6:cliTask_begin	72	static
+main.c:564:6:update_statusTask	40	static
+main.c:606:6:controller_stateTask	40	static
+main.c:753:6:Callback01	16	static
+main.c:769:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:786:6:Error_Handler	4	static
